@@ -1,0 +1,15 @@
+,var,station_id,station_name,latitude,longitude,altitude,unit,freq,framework,matrix
+0,concco,NO0002R,Birkenes II,58.38853,8.252,219.0,ug m-3,monthly,EMEP NILU,air
+1,concco,NL0644R,Cabauw Wielsekade,51.974444,4.923611,3.0,ug m-3,monthly,EMEP,air
+2,concco,MT0001R,Giordan Lighthouse,36.0722,14.2184,174.0,ug m-3,monthly,EMEP,air
+3,concco,DE0043G,Hohenpeissenberg,47.8014984131,11.009619,975.0,ug m-3,monthly,EMEP GAW-WDCGG-node,air
+4,concco,AT0002R,Illmitz,47.7666664124,16.7666664124,117.0,ug m-3,monthly,EMEP,air
+5,concco,IT0004R,Ispra,45.8,8.633333,215.5,ug m-3,monthly,EMEP,air
+6,concco,NL0009R,Kollumerwaard,53.333889,6.277222,1.0,ug m-3,monthly,EMEP,air
+7,concco,CZ0003R,Kosetice (NOAK),49.573394,15.080278,535.0,ug m-3,monthly,EMEP,air
+8,concco,EE0009R,Lahemaa,59.5,25.9,32.0,ug m-3,monthly,EMEP,air
+9,concco,GB0051R,Market Harborough,52.554444,-0.772222,145.0,ug m-3,monthly,EMEP,air
+10,concco,DE0007R,Neuglobsow,53.166667,13.033333,62.0,ug m-3,monthly,EMEP;EMEP GAW-WDCGG-node,air
+11,concco,RO0008R,Poiana Stampei,47.324792,25.134664,908.0,ug m-3,monthly,EMEP,air
+12,concco,GB0050R,St. Osyth,51.778056,1.08223,8.0,ug m-3,monthly,EMEP,air
+13,concco,NO0042G,Zeppelin mountain (Ny-Ålesund),78.90715,11.88668,489.0,ug m-3,monthly,EMEP NILU,air

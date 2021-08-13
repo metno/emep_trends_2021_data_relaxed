@@ -1,7 +1,7 @@
 ,var,station_id,station_name,latitude,longitude,altitude,unit,freq,framework,matrix
 0,concco,NO0002R,Birkenes II,58.38853,8.252,219.0,ug m-3,monthly,EMEP NILU,air
 1,concco,NL0644R,Cabauw Wielsekade,51.974444,4.923611,3.0,ug m-3,monthly,EMEP,air
-2,concco,MT0001R,Giordan Lighthouse,36.0722,14.2184,174.0,ug m-3,monthly,EMEP,air
+2,concco,MT0001R,Giordan Lighthouse,36.0722,14.2184,174.0,ug m-3,monthly,EMEP GAW-WDCRG,air
 3,concco,DE0043G,Hohenpeissenberg,47.8014984131,11.009619,975.0,ug m-3,monthly,EMEP GAW-WDCGG-node,air
 4,concco,AT0002R,Illmitz,47.7666664124,16.7666664124,117.0,ug m-3,monthly,EMEP,air
 5,concco,IT0004R,Ispra,45.8,8.633333,215.5,ug m-3,monthly,EMEP,air

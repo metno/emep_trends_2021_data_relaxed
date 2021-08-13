@@ -5,7 +5,7 @@
 3,concNtnh,SE0012R,Aspvreten,58.8,17.383333,20.0,ug N m-3,monthly,EMEP HELCOM,air+aerosol
 4,concNtnh,GB0091R,Banchory,57.076667,-2.534444,120.0,ug N m-3,monthly,CAMP EMEP,air+aerosol
 5,concNtnh,ES0011R,Barcarrota,38.47278,-6.92361,393.0,ug N m-3,monthly,EMEP,air+aerosol
-6,concNtnh,NO0002R;NO0001R,Birkenes II,58.38853,8.252,219.0,ug N m-3,monthly,NILU EMEP;CAMP NILU EMEP_preliminary;CAMP EMEP NILU,air+aerosol
+6,concNtnh,NO0002R;NO0001R,Birkenes II,58.38853,8.252,219.0,ug N m-3,monthly,CAMP EMEP NILU,air+aerosol
 7,concNtnh,SE0005R,Bredkälen,63.85,15.333333,404.0,ug N m-3,monthly,AMAP EMEP,air+aerosol
 8,concNtnh,ES0010R,Cabo de Creus,42.31917,3.31583,76.0,ug N m-3,monthly,EMEP,air+aerosol
 9,concNtnh,ES0009R,Campisabalos,41.27417,-3.1425,1360.0,ug N m-3,monthly,EMEP,air+aerosol
@@ -13,27 +13,27 @@
 11,concNtnh,TR0001R,Cubuk II,40.5,33.0,1169.0,ug N m-3,monthly,EMEP,air+aerosol
 12,concNtnh,DE0004R,Deuselbach,49.764722,7.051944,480.0,ug N m-3,monthly,EMEP,air+aerosol
 13,concNtnh,PL0005R,Diabla Gora,54.15,22.066667,159.45,ug N m-3,monthly,EMEP,air+aerosol
-14,concNtnh,ES0017R,Doñana,37.05194,-6.55528,35.0,ug N m-3,monthly,CAMP EMEP_preliminary,air+aerosol
+14,concNtnh,ES0017R,Doñana,37.05194,-6.55528,35.0,ug N m-3,monthly,CAMP EMEP,air+aerosol
 15,concNtnh,ES0014R,Els Torms,41.39389,0.73472,470.0,ug N m-3,monthly,EMEP,air+aerosol
 16,concNtnh,GB0002R,Eskdalemuir,55.313056,-3.204167,243.0,ug N m-3,monthly,EMEP,air+aerosol
 17,concNtnh,HU0003R,Farkasfa,46.91,16.32,314.0,ug N m-3,monthly,EMEP,air+aerosol
 18,concNtnh,GB0016R,Glen Dye,56.9675,-2.588889,85.0,ug N m-3,monthly,CAMP EMEP,air+aerosol
 19,concNtnh,GB0054R,Glen Saugh,56.907222,-2.559167,85.0,ug N m-3,monthly,CAMP EMEP,air+aerosol
-20,concNtnh,SE0020R;SE0011R,Hallahus,56.0429,13.148,190.0,ug N m-3,monthly,EMEP HELCOM;HELCOM EMEP_preliminary,air+aerosol
+20,concNtnh,SE0020R;SE0011R,Hallahus,56.0429,13.148,190.0,ug N m-3,monthly,EMEP HELCOM,air+aerosol
 21,concNtnh,GB0036R,Harwell,51.573056,-1.316667,137.0,ug N m-3,monthly,CAMPAIGN EMEP,air+aerosol
 22,concNtnh,GB0014R,High Muffles,54.334444,-0.8075,267.0,ug N m-3,monthly,CAMP EMEP,air+aerosol
-23,concNtnh,NO0056R,Hurdal,60.372386,11.078142,300.0,ug N m-3,monthly,NILU EMEP_preliminary;EMEP NILU,air+aerosol
+23,concNtnh,NO0056R,Hurdal,60.372386,11.078142,300.0,ug N m-3,monthly,EMEP NILU,air+aerosol
 24,concNtnh,FI0050R,Hyytiälä,61.85,24.283333,184.0,ug N m-3,monthly,EMEP,air+aerosol
 25,concNtnh,AT0002R,Illmitz,47.7666664124,16.7666664124,117.0,ug N m-3,monthly,EMEP;CAMPAIGN EMEP,air+aerosol
 26,concNtnh,SI0008R,Iskrba,45.566667,14.866667,520.0,ug N m-3,monthly,EMEP,air+aerosol
-27,concNtnh,PL0002R,Jarczew,51.814408,21.972419,182.24,ug N m-3,monthly,EMEP GAW-WDCA;GAW-WDCA EMEP_preliminary,air+aerosol
+27,concNtnh,PL0002R,Jarczew,51.814408,21.972419,182.24,ug N m-3,monthly,EMEP GAW-WDCA,air+aerosol
 28,concNtnh,HU0002R,K-puszta,46.966667,19.583333,128.0,ug N m-3,monthly,EMEP,air+aerosol
 29,concNtnh,NO0055R,Karasjok,69.466667,25.216667,333.0,ug N m-3,monthly,AMAP EMEP NILU,air+aerosol
 30,concNtnh,DK0005R,Keldsnor,54.746495,10.73616,10.0,ug N m-3,monthly,EMEP;CAMP EMEP;EMEP HELCOM;CAMP EMEP HELCOM,air+aerosol
 31,concNtnh,CZ0003R,Kosetice (NOAK),49.573394,15.080278,535.0,ug N m-3,monthly,EMEP,air+aerosol
-32,concNtnh,NO0039R,Kårvatn,62.783333,8.883333,210.0,ug N m-3,monthly,CAMP NILU EMEP_preliminary;CAMP EMEP NILU,air+aerosol
+32,concNtnh,NO0039R,Kårvatn,62.783333,8.883333,210.0,ug N m-3,monthly,CAMP EMEP NILU,air+aerosol
 33,concNtnh,FR0015R,La Tardière,46.65,-0.75,133.0,ug N m-3,monthly,EMEP,air+aerosol
-34,concNtnh,PL0004R,Leba,54.753894,17.534264,5.0,ug N m-3,monthly,EMEP GAW-WDCA;GAW-WDCA EMEP_preliminary;EMEP HELCOM,air+aerosol
+34,concNtnh,PL0004R,Leba,54.753894,17.534264,5.0,ug N m-3,monthly,EMEP GAW-WDCA;EMEP HELCOM,air+aerosol
 35,concNtnh,MD0013R,Leova II,46.4884,28.2835,166.0,ug N m-3,monthly,EMEP,air+aerosol
 36,concNtnh,ES0004R,Logroño,42.457778,-2.503056,445.0,ug N m-3,monthly,EMEP,air+aerosol
 37,concNtnh,GB0006R,Lough Navar,54.443056,-7.87,126.0,ug N m-3,monthly,CAMP EMEP,air+aerosol
@@ -41,9 +41,9 @@
 39,concNtnh,IT0001R,Montelibretti,42.1,12.633333,48.0,ug N m-3,monthly,EMEP,air+aerosol
 40,concNtnh,ES1778R,Montseny,41.766667,2.35,700.0,ug N m-3,monthly,EMEP,air+aerosol
 41,concNtnh,DE0007R,Neuglobsow,53.166667,13.033333,65.5,ug N m-3,monthly,EMEP,air+aerosol
-42,concNtnh,ES0008R,Niembro,43.43917,-4.85,134.0,ug N m-3,monthly,CAMP EMEP_preliminary,air+aerosol
-43,concNtnh,ES0005R,Noia,42.72056,-8.92361,683.0,ug N m-3,monthly,CAMP EMEP_preliminary,air+aerosol
-44,concNtnh,SE0022R,Norunda Stenen,60.0858,17.50528,45.0,ug N m-3,monthly,EMEP HELCOM;HELCOM EMEP_preliminary,air+aerosol
+42,concNtnh,ES0008R,Niembro,43.43917,-4.85,134.0,ug N m-3,monthly,CAMP EMEP,air+aerosol
+43,concNtnh,ES0005R,Noia,42.72056,-8.92361,683.0,ug N m-3,monthly,CAMP EMEP,air+aerosol
+44,concNtnh,SE0022R,Norunda Stenen,60.0858,17.50528,45.0,ug N m-3,monthly,EMEP HELCOM,air+aerosol
 45,concNtnh,ES0016R,O Saviñao,42.63472,-7.70472,506.0,ug N m-3,monthly,EMEP,air+aerosol
 46,concNtnh,NO0041R,Osen,61.25,11.783333,440.0,ug N m-3,monthly,EMEP NILU,air+aerosol
 47,concNtnh,FI0022R,Oulanka,66.320278,29.401667,310.0,ug N m-3,monthly,EMEP;AMAP EMEP;EMEP AMAP,air+aerosol
@@ -57,27 +57,27 @@
 55,concNtnh,ES0015R,Risco Llamo,39.516667,-4.35,1241.0,ug N m-3,monthly,EMEP,air+aerosol
 56,concNtnh,DK0012R,Risoe,55.693588,12.085797,3.0,ug N m-3,monthly,EMEP;CAMP EMEP,air+aerosol
 57,concNtnh,ES0003R,Roquetas,40.820556,0.491389,44.0,ug N m-3,monthly,EMEP,air+aerosol
-58,concNtnh,LV0010R,Rucava,56.161944,21.173056,19.8,ug N m-3,monthly,EMEP GAW-WDCA;GAW-WDCA EMEP_preliminary;EMEP HELCOM,air+aerosol
-59,concNtnh,SE0014R;SE0002R,Råö,57.394,11.914,5.0,ug N m-3,monthly,CAMP EMEP HELCOM;CAMP HELCOM EMEP_preliminary,air+aerosol
+58,concNtnh,LV0010R,Rucava,56.161944,21.173056,19.8,ug N m-3,monthly,EMEP GAW-WDCA;EMEP HELCOM,air+aerosol
+59,concNtnh,SE0014R;SE0002R,Råö,57.394,11.914,5.0,ug N m-3,monthly,CAMP EMEP HELCOM,air+aerosol
 60,concNtnh,ES0001R,San Pablo de los Montes,39.54694,-4.35056,917.0,ug N m-3,monthly,EMEP,air+aerosol
 61,concNtnh,DE0003R,Schauinsland,47.914722,7.908611,1208.5,ug N m-3,monthly,EMEP,air+aerosol
 62,concNtnh,NO0008R,Skreådalen,58.816667,6.716667,475.0,ug N m-3,monthly,EMEP NILU,air+aerosol
-63,concNtnh,PL0003R,Sniezka,50.736444,15.7395,1607.5,ug N m-3,monthly,EMEP GAW-WDCA;GAW-WDCA EMEP_preliminary,air+aerosol
+63,concNtnh,PL0003R,Sniezka,50.736444,15.7395,1607.5,ug N m-3,monthly,EMEP GAW-WDCA,air+aerosol
 64,concNtnh,SK0006R,Starina,49.05,22.266667,345.0,ug N m-3,monthly,EMEP,air+aerosol
 65,concNtnh,CZ0001R,Svratouch,49.735084444,16.034196944,735.0,ug N m-3,monthly,EMEP,air+aerosol
 66,concNtnh,DK0003R,Tange,56.35,9.6,13.0,ug N m-3,monthly,EMEP;CAMP EMEP,air+aerosol
-67,concNtnh,NO0015R,Tustervatn,65.833333,13.916667,439.0,ug N m-3,monthly,NILU EMEP_preliminary;EMEP NILU,air+aerosol
+67,concNtnh,NO0015R,Tustervatn,65.833333,13.916667,439.0,ug N m-3,monthly,EMEP NILU,air+aerosol
 68,concNtnh,DK0031R,Ulborg,56.290424,8.427486,10.0,ug N m-3,monthly,EMEP;CAMP EMEP,air+aerosol
-69,concNtnh,FI0009R,Utö,59.779167,21.377222,7.0,ug N m-3,monthly,EMEP;EMEP HELCOM;EMEP_preliminary HELCOM,air+aerosol
+69,concNtnh,FI0009R,Utö,59.779167,21.377222,7.0,ug N m-3,monthly,EMEP;EMEP HELCOM,air+aerosol
 70,concNtnh,IE0001R,Valentia Observatory,51.939722,-10.244444,13.0,ug N m-3,monthly,EMEP CAMP;CAMP EMEP,air+aerosol
 71,concNtnh,DK0010G,"Villum Research Station, Station Nord",81.6,-16.67,23.0,ug N m-3,monthly,AMAP EMEP,air+aerosol
-72,concNtnh,FI0018R;FI0017R,Virolahti III,60.53002,27.66754,4.0,ug N m-3,monthly,EMEP;EMEP_preliminary HELCOM;EMEP HELCOM,air+aerosol
+72,concNtnh,FI0018R;FI0017R,Virolahti III,60.53002,27.66754,4.0,ug N m-3,monthly,EMEP;EMEP HELCOM,air+aerosol
 73,concNtnh,ES0007R,Víznar,37.23722,-3.53417,1230.0,ug N m-3,monthly,EMEP,air+aerosol
 74,concNtnh,DE0002R,Waldhof,52.802222,10.759444,77.8,ug N m-3,monthly,EMEP,air+aerosol
 75,concNtnh,DE0001R,Westerland,54.925556,8.309722,12.0,ug N m-3,monthly,EMEP;CAMP EMEP,air+aerosol
 76,concNtnh,GB0013R,Yarner Wood,50.596389,-3.713056,119.0,ug N m-3,monthly,CAMP EMEP,air+aerosol
 77,concNtnh,ES0012R,Zarra,39.08278,-1.10111,885.0,ug N m-3,monthly,EMEP,air+aerosol
-78,concNtnh,NO0042G,Zeppelin mountain (Ny-Ålesund),78.90715,11.88668,474.0,ug N m-3,monthly,AMAP CAMP NILU EMEP;AMAP CAMP NILU EMEP_preliminary;AMAP CAMP EMEP NILU;AMAP CAMP EMEP EUSAAR GAW-WDCA NILU,air+aerosol
+78,concNtnh,NO0042G,Zeppelin mountain (Ny-Ålesund),78.90715,11.88668,474.0,ug N m-3,monthly,AMAP CAMP EMEP NILU;AMAP CAMP EMEP EUSAAR GAW-WDCA NILU,air+aerosol
 79,concNtnh,DE0009R,Zingst,54.4368,12.7249,1.0,ug N m-3,monthly,EMEP;EMEP HELCOM,air+aerosol
 80,concNtnh,LV0016R,Zoseni,57.135278,25.905556,188.0,ug N m-3,monthly,EMEP;EMEP HELCOM,air+aerosol
 81,concNtnh,FI0037R,Ähtäri II,62.583333,24.183333,180.0,ug N m-3,monthly,EMEP,air+aerosol

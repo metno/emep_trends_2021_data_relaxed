@@ -19,11 +19,11 @@
 17,concsspm25,IT0001R,Montelibretti,42.1,12.633333,48.0,ug m-3,monthly,CAMPAIGN EMEP,pm25
 18,concsspm25,ES1778R,Montseny,41.766667,2.35,702.0,ug m-3,monthly,ACTRIS EMEP GAW-WDCA;EMEP EUSAAR GAW-WDCA,pm25
 19,concsspm25,DE0007R,Neuglobsow,53.166667,13.033333,63.6,ug m-3,monthly,EMEP,pm25
-20,concsspm25,ES0008R,Niembro,43.43917,-4.85,134.0,ug m-3,monthly,CAMP EMEP_preliminary,pm25
+20,concsspm25,ES0008R,Niembro,43.43917,-4.85,134.0,ug m-3,monthly,CAMP EMEP,pm25
 21,concsspm25,FI0036R,Pallas (Matorova),68.0,24.237222222,340.0,ug m-3,monthly,EMEP,pm25
 22,concsspm25,FR0013R,Peyrusse Vieille,43.616667,0.183333,200.0,ug m-3,monthly,EMEP,pm25
 23,concsspm25,FR0009R,Revin,49.9,4.633333,390.0,ug m-3,monthly,EMEP,pm25
-24,concsspm25,LV0010R,Rucava,56.161944,21.173056,21.0,ug m-3,monthly,EMEP GAW-WDCA;GAW-WDCA EMEP_preliminary,pm25
+24,concsspm25,LV0010R,Rucava,56.161944,21.173056,21.0,ug m-3,monthly,EMEP GAW-WDCA,pm25
 25,concsspm25,FR0023R,Saint-Nazaire-le-Désert,44.569444444,5.278972222,605.0,ug m-3,monthly,EMEP,pm25
 26,concsspm25,ES0001R,San Pablo de los Montes,39.54694,-4.35056,917.0,ug m-3,monthly,EMEP,pm25
 27,concsspm25,DE0003R,Schauinsland,47.914722,7.908611,1206.6,ug m-3,monthly,EMEP,pm25

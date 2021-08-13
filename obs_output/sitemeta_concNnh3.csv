@@ -7,7 +7,7 @@
 5,concNnh3,GB0091R,Banchory,57.076667,-2.534444,120.0,ug N m-3,monthly,CAMP EMEP,air
 6,concNnh3,ES0011R,Barcarrota,38.47278,-6.92361,393.0,ug N m-3,monthly,EMEP,air
 7,concNnh3,CH0053R,Beromünster,47.18961391,8.175433684,797.0,ug N m-3,monthly,EMEP,air
-8,concNnh3,NO0002R;NO0001R,Birkenes II,58.38853,8.252,219.0,ug N m-3,monthly,NILU EMEP;CAMP NILU EMEP_preliminary;CAMP EMEP NILU,air
+8,concNnh3,NO0002R;NO0001R,Birkenes II,58.38853,8.252,219.0,ug N m-3,monthly,CAMP EMEP NILU,air
 9,concNnh3,SE0005R,Bredkälen,63.85,15.333333,404.0,ug N m-3,monthly,AMAP EMEP,air
 10,concNnh3,NL0011R,Cabauw Zijdeweg,51.970278,4.926389,1.0,ug N m-3,monthly,CAMPAIGN EMEP,air
 11,concNnh3,ES0009R,Campisabalos,41.27417,-3.1425,1360.0,ug N m-3,monthly,EMEP,air
@@ -20,10 +20,10 @@
 18,concNnh3,HU0003R,Farkasfa,46.91,16.32,314.0,ug N m-3,monthly,EMEP,air
 19,concNnh3,GB0016R,Glen Dye,56.9675,-2.588889,85.0,ug N m-3,monthly,CAMP EMEP,air
 20,concNnh3,GB0054R,Glen Saugh,56.907222,-2.559167,85.0,ug N m-3,monthly,CAMP EMEP,air
-21,concNnh3,SE0020R;SE0011R,Hallahus,56.0429,13.148,190.0,ug N m-3,monthly,EMEP HELCOM;HELCOM EMEP_preliminary,air
+21,concNnh3,SE0020R;SE0011R,Hallahus,56.0429,13.148,190.0,ug N m-3,monthly,EMEP HELCOM,air
 22,concNnh3,GB0036R,Harwell,51.573056,-1.316667,137.0,ug N m-3,monthly,EMEP;EMEP CAMP;CAMPAIGN EMEP,air
 23,concNnh3,GB0014R,High Muffles,54.334444,-0.8075,267.0,ug N m-3,monthly,CAMP EMEP,air
-24,concNnh3,NO0056R,Hurdal,60.372386,11.078142,300.0,ug N m-3,monthly,NILU EMEP_preliminary;EMEP NILU,air
+24,concNnh3,NO0056R,Hurdal,60.372386,11.078142,300.0,ug N m-3,monthly,EMEP NILU,air
 25,concNnh3,FI0050R,Hyytiälä,61.85,24.283333,184.0,ug N m-3,monthly,EMEP,air
 26,concNnh3,AT0002R,Illmitz,47.7666664124,16.7666664124,117.0,ug N m-3,monthly,EMEP,air
 27,concNnh3,SI0008R,Iskrba,45.566667,14.866667,525.0,ug N m-3,monthly,EMEP,air
@@ -33,7 +33,7 @@
 31,concNnh3,DK0005R,Keldsnor,54.746495,10.73616,10.0,ug N m-3,monthly,EMEP;CAMP EMEP,air
 32,concNnh3,BE0014R,Koksijde,51.12092,2.65854,7.0,ug N m-3,monthly,CAMP EMEP,air
 33,concNnh3,CZ0003R,Kosetice (NOAK),49.573394,15.080278,535.0,ug N m-3,monthly,EMEP,air
-34,concNnh3,NO0039R,Kårvatn,62.783333,8.883333,210.0,ug N m-3,monthly,CAMP NILU EMEP_preliminary;CAMP EMEP NILU,air
+34,concNnh3,NO0039R,Kårvatn,62.783333,8.883333,210.0,ug N m-3,monthly,CAMP EMEP NILU,air
 35,concNnh3,FR0015R,La Tardière,46.65,-0.75,133.0,ug N m-3,monthly,EMEP,air
 36,concNnh3,MD0013R,Leova II,46.4884,28.2835,166.0,ug N m-3,monthly,EMEP,air
 37,concNnh3,GB0006R,Lough Navar,54.443056,-7.87,126.0,ug N m-3,monthly,CAMP EMEP,air
@@ -41,7 +41,7 @@
 39,concNnh3,ES1778R,Montseny,41.766667,2.35,700.0,ug N m-3,monthly,EMEP EUSAAR GAW-WDCA,air
 40,concNnh3,DE0007R,Neuglobsow,53.166667,13.033333,64.0,ug N m-3,monthly,EMEP,air
 41,concNnh3,ES0008R,Niembro,43.43917,-4.85,134.0,ug N m-3,monthly,CAMP EMEP,air
-42,concNnh3,SE0022R,Norunda Stenen,60.0858,17.50528,45.0,ug N m-3,monthly,EMEP HELCOM;HELCOM EMEP_preliminary,air
+42,concNnh3,SE0022R,Norunda Stenen,60.0858,17.50528,45.0,ug N m-3,monthly,EMEP HELCOM,air
 43,concNnh3,NO0041R,Osen,61.25,11.783333,440.0,ug N m-3,monthly,EMEP NILU,air
 44,concNnh3,FI0022R,Oulanka,66.320278,29.401667,310.0,ug N m-3,monthly,EMEP;AMAP EMEP,air
 45,concNnh3,FI0036R,Pallas (Matorova),68.0,24.237222222,340.0,ug N m-3,monthly,EMEP,air
@@ -50,8 +50,8 @@
 48,concNnh3,FR0009R,Revin,49.9,4.633333,390.0,ug N m-3,monthly,EMEP,air
 49,concNnh3,CH0005R,Rigi,47.0675,8.463889,1031.0,ug N m-3,monthly,EMEP,air
 50,concNnh3,DK0012R,Risoe,55.693588,12.085797,6.0,ug N m-3,monthly,CAMP EMEP,air
-51,concNnh3,LV0010R,Rucava,56.161944,21.173056,19.8,ug N m-3,monthly,EMEP GAW-WDCA;GAW-WDCA EMEP_preliminary,air
-52,concNnh3,SE0014R;SE0002R,Råö,57.394,11.914,5.0,ug N m-3,monthly,CAMP EMEP HELCOM;CAMP HELCOM EMEP_preliminary,air
+51,concNnh3,LV0010R,Rucava,56.161944,21.173056,19.8,ug N m-3,monthly,EMEP GAW-WDCA,air
+52,concNnh3,SE0014R;SE0002R,Råö,57.394,11.914,5.0,ug N m-3,monthly,CAMP EMEP HELCOM,air
 53,concNnh3,ES0001R,San Pablo de los Montes,39.54694,-4.35056,917.0,ug N m-3,monthly,EMEP,air
 54,concNnh3,DE0003R,Schauinsland,47.914722,7.908611,1207.0,ug N m-3,monthly,EMEP,air
 55,concNnh3,DE0008R,Schmücke,50.65,10.766667,939.0,ug N m-3,monthly,EMEP,air
@@ -60,15 +60,15 @@
 58,concNnh3,SK0004R,Stará Lesná,49.15,20.283333,808.0,ug N m-3,monthly,EMEP,air
 59,concNnh3,CZ0001R,Svratouch,49.735084444,16.034196944,735.0,ug N m-3,monthly,EMEP,air
 60,concNnh3,DK0003R,Tange,56.35,9.6,16.0,ug N m-3,monthly,CAMP EMEP,air
-61,concNnh3,NO0015R,Tustervatn,65.833333,13.916667,439.0,ug N m-3,monthly,NILU EMEP_preliminary;EMEP NILU,air
+61,concNnh3,NO0015R,Tustervatn,65.833333,13.916667,439.0,ug N m-3,monthly,EMEP NILU,air
 62,concNnh3,DK0031R,Ulborg,56.290424,8.427486,40.0,ug N m-3,monthly,CAMP EMEP,air
-63,concNnh3,FI0009R,Utö,59.779167,21.377222,7.0,ug N m-3,monthly,EMEP;EMEP_preliminary HELCOM,air
+63,concNnh3,FI0009R,Utö,59.779167,21.377222,7.0,ug N m-3,monthly,EMEP;EMEP HELCOM,air
 64,concNnh3,DK0010G,"Villum Research Station, Station Nord",81.6,-16.67,23.0,ug N m-3,monthly,CAMP EMEP GAW-WDCRG;AMAP EMEP;AMAP EMEP CAMP,air
-65,concNnh3,FI0018R;FI0017R,Virolahti III,60.53002,27.66754,4.0,ug N m-3,monthly,EMEP;EMEP_preliminary HELCOM,air
+65,concNnh3,FI0018R;FI0017R,Virolahti III,60.53002,27.66754,4.0,ug N m-3,monthly,EMEP;EMEP HELCOM,air
 66,concNnh3,ES0007R,Víznar,37.23722,-3.53417,1230.0,ug N m-3,monthly,EMEP,air
 67,concNnh3,DE0002R,Waldhof,52.802222,10.759444,76.0,ug N m-3,monthly,EMEP,air
 68,concNnh3,DE0001R,Westerland,54.925556,8.309722,14.0,ug N m-3,monthly,CAMP EMEP,air
 69,concNnh3,GB0013R,Yarner Wood,50.596389,-3.713056,119.0,ug N m-3,monthly,CAMP EMEP,air
-70,concNnh3,NO0042G,Zeppelin mountain (Ny-Ålesund),78.90715,11.88668,474.0,ug N m-3,monthly,AMAP CAMP NILU EMEP;AMAP CAMP NILU EMEP_preliminary;AMAP CAMP EMEP NILU;AMAP CAMP EMEP EUSAAR GAW-WDCA NILU,air
+70,concNnh3,NO0042G,Zeppelin mountain (Ny-Ålesund),78.90715,11.88668,474.0,ug N m-3,monthly,AMAP CAMP EMEP NILU;AMAP CAMP EMEP EUSAAR GAW-WDCA NILU,air
 71,concNnh3,DE0009R,Zingst,54.4368,12.7249,3.0,ug N m-3,monthly,EMEP HELCOM,air
 72,concNnh3,FI0037R,Ähtäri II,62.583333,24.183333,180.0,ug N m-3,monthly,EMEP,air
